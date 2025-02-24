@@ -44,7 +44,7 @@ header nav a {
 .container-comeco {
     width: 100%;
     height: 100vh;
-    background-image: url(image/contrato.jpg);
+    background-image: url(image/contrato.png);
     background-attachment: fixed;
     background-size: cover;
     display: flex;
@@ -150,7 +150,7 @@ header nav a {
     align-items: center;
     gap: 5px;
     background-color: #771013;
-    background-image: url(image/homem-explicando.jpg);
+    background-image: url(image/homem-explicando.png);
     background-size: cover;
     background-attachment: fixed;
     padding: 20px;
